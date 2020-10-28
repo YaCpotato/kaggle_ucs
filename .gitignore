@@ -1,4 +1,9 @@
+Cities/
+Corporations/
+Supplementary Data/
 bin/
+etc/
 include/
 lib/
 pyvenv.cfg
+share/
